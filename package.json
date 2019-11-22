@@ -1,0 +1,11 @@
+{
+  "name": "connellyfamily",
+  "version": "1.0.0",
+  "description": "propsopee problems: inside of the ve directory, there is a themes directory that isn't downloaded for some reason. To deal with this, I had to download the repo and paste themes into the correct directory. Dumb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

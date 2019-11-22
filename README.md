@@ -1,0 +1,1 @@
+propsopee problems: inside of the ve directory, there is a themes directory that isn't downloaded for some reason. To deal with this, I had to download the repo and paste themes into the correct directory. Dumb.
