@@ -1,11 +1,20 @@
 {
   "name": "connellyfamily",
   "version": "1.0.0",
-  "description": "propsopee problems: inside of the ve directory, there is a themes directory that isn't downloaded for some reason. To deal with this, I had to download the repo and paste themes into the correct directory. Dumb.",
+  "description": "prosopopee problems: inside of the ve directory, there is a themes directory that isn't downloaded for some reason. To deal with this, I had to download the repo and paste themes into the correct directory. Dumb.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "prosopopee",
+    "run": "echo 'Connect to http://penguin.linux.test:9000' && prosopopee preview",
+    "buildAndRun": "prosopopee && echo 'Connect to http://penguin.linux.test:9000' && prosopopee preview",
+    "updateGalleries": "node updateGalleries.js",
+    "rebuildAndRun":"rm -rf build && prosopopee && echo 'Build Folder Deleted and Rebuilt.' && echo 'Connect to http://penguin.linux.test:9000' && prosopopee preview",
+    "activate": "source ve/bin/activate"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "recursive-readdir": "^2.2.2"
+  }
 }

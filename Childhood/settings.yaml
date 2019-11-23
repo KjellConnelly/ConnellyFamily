@@ -1,4 +1,29 @@
 title: Growing up through Childhood
 sub_title: (of Emmett and Kjell Connelly)
-date: 2015-12-08
 cover: home2.jpeg
+sections:
+  - type: full-picture
+    image: home2.jpeg
+    text:
+      title: This is us hanging out in the summer of 1986
+      sub_title: ':D'
+      date: 2015-12-08T00:00:00.000Z
+  - type: bordered-picture
+    image: home2.jpeg
+  - type: text
+    text: « Hi! <b>Dude!</b> How's it going? »
+  - type: pictures-group
+    images:
+      - - home2.jpeg
+        - home2.jpeg
+        - home2.jpeg
+      - - home2.jpeg
+        - home2.jpeg
+  - type: full-picture
+    image: home2.jpeg
+  - type: pictures-group
+    images:
+      - - valeera1.png
+        - varian1.png
+        - zagara1.png
+      - - zeratul1.png
