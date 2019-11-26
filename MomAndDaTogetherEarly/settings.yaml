@@ -12,3 +12,12 @@ sections:
         - 'Photo Nov 22, 7 57 05 PM (1).jpg'
       - - 'Photo Nov 22, 7 57 05 PM.jpg'
         - 'Photo Nov 22, 7 57 08 PM.jpg'
+  - type: pictures-group
+    images:
+      - - TurboScan3-025.jpg
+        - TurboScan3-129.jpg
+        - TurboScan3-159.jpg
+      - - TurboScan3-167.jpg
+        - TurboScan3-173.jpg
+        - TurboScan3-174.jpg
+      - - TurboScan3-179.jpg

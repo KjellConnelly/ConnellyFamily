@@ -2,9 +2,12 @@ const recursive = require("recursive-readdir")
 const path = require('path')
 const yaml = require('js-yaml')
 const fs = require('fs')
+const util = require('util')
+const exec = util.promisify(require('child_process').exec)
 
-const ignoreDirectories = ['node_modules','ve','.git','build']
+const ignoreDirectories = ['node_modules','ve','.git','build','Unprocessed']
 const singleImageTypes = ['full-picture','bordered-picture','panorama','author']
+const directoriesToCheckSize = ['build','Childhood','MomAndDaTogetherEarly','TeenageYears','YoungAdulthood',]
 
 function start() {
   recursive("./", ignoreDirectories, (err, files)=>{
@@ -88,4 +91,16 @@ function start() {
   })
 }
 
+async function getDirectorySizes() {
+  try {
+    for (let i = 0; i < directoriesToCheckSize.length; i++) {
+      const {stdout, stderr} = await exec(`du -sh ${directoriesToCheckSize[i]}`)
+      console.log(stdout)
+    }
+  } catch(err) {
+    console.log(`updateGalleries.js getDirectorySizes() error: ${err}`)
+  }
+}
+
 start()
+getDirectorySizes()

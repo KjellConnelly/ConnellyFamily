@@ -4,3 +4,11 @@ cover: 'Photo Nov 22, 7 56 46 PM.jpg'
 sections:
   - type: bordered-picture
     image: 'Photo Nov 22, 7 56 46 PM.jpg'
+  - type: pictures-group
+    images:
+      - - TurboScan3-093.jpg
+        - TurboScan3-110.jpg
+        - TurboScan3-111.jpg
+      - - TurboScan3-112.jpg
+        - TurboScan3-115.jpg
+        - TurboScan3-175.jpg
