@@ -4,20 +4,37 @@ cover: TurboScan3-044.jpg
 sections:
   - type: pictures-group
     images:
-      - - TurboScan3-044.jpg
-        - TurboScan3-048.jpg
-        - TurboScan3-049.jpg
-      - - TurboScan3-050.jpg
-        - TurboScan3-051.jpg
-        - TurboScan3-052.jpg
-      - - TurboScan3-053.jpg
-        - TurboScan3-054.jpg
-        - TurboScan3-055.jpg
-      - - TurboScan3-056.jpg
-        - TurboScan3-057.jpg
-        - TurboScan3-058.jpg
-      - - TurboScan3-059.jpg
-        - TurboScan3-060.jpg
-        - TurboScan3-061.jpg
-      - - TurboScan3-062.jpg
-        - TurboScan3-063.jpg
+      - - name: TurboScan3-044.jpg
+          text: ''
+        - name: TurboScan3-048.jpg
+          text: ''
+        - name: TurboScan3-049.jpg
+          text: ''
+      - - name: TurboScan3-050.jpg
+          text: ''
+        - name: TurboScan3-051.jpg
+          text: ''
+        - name: TurboScan3-052.jpg
+          text: ''
+      - - name: TurboScan3-053.jpg
+          text: ''
+        - name: TurboScan3-054.jpg
+          text: ''
+        - name: TurboScan3-055.jpg
+          text: ''
+      - - name: TurboScan3-056.jpg
+          text: ''
+        - name: TurboScan3-057.jpg
+          text: ''
+        - name: TurboScan3-058.jpg
+          text: ''
+      - - name: TurboScan3-059.jpg
+          text: ''
+        - name: TurboScan3-060.jpg
+          text: ''
+        - name: TurboScan3-061.jpg
+          text: ''
+      - - name: TurboScan3-062.jpg
+          text: ''
+        - name: TurboScan3-063.jpg
+          text: ''

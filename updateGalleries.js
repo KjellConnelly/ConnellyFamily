@@ -52,6 +52,13 @@ function start() {
             doc.sections = []
           }
 
+          // turn images not added into object:
+          imagesNotAdded = imagesNotAdded.map((imgName)=>{
+            return {
+              name:imgName,
+              text:"",
+            }
+          })
           if (imagesNotAdded.length == 1) {
             imagesNotAdded.forEach(img=>{
               doc.sections.push({
@@ -60,6 +67,7 @@ function start() {
               })
             })
           } else {
+            // sort into rows of 3
             imagesNotAdded = imagesNotAdded.reduce((rows, key, index) => (index % 3 == 0 ? rows.push([key]) : rows[rows.length-1].push(key)) && rows, [])
             doc.sections.push({
               type:"pictures-group",

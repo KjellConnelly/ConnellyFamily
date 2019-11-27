@@ -1,25 +1,44 @@
 title: Disney World Trip
-sub_title: Kjell, Emmett, Linda, Wi-Po
+sub_title: 'Kjell, Emmett, Linda, Wi-Po'
 cover: TurboScan3-120.jpg
 sections:
   - type: pictures-group
     images:
-      - - TurboScan3-120.jpg
-        - TurboScan3-121.jpg
-        - TurboScan3-182.jpg
-      - - TurboScan4-047.jpg
-        - TurboScan4-048.jpg
-        - TurboScan4-049.jpg
-      - - TurboScan4-050.jpg
-        - TurboScan4-051.jpg
-        - TurboScan4-052.jpg
-      - - TurboScan4-053.jpg
-        - TurboScan4-054.jpg
-        - TurboScan4-055.jpg
-      - - TurboScan4-056.jpg
-        - TurboScan4-057.jpg
-        - TurboScan4-058.jpg
-      - - TurboScan4-059.jpg
-        - TurboScan4-060.jpg
-        - TurboScan4-061.jpg
-      - - TurboScan4-062.jpg
+      - - name: TurboScan3-120.jpg
+          text: ''
+        - name: TurboScan3-121.jpg
+          text: ''
+        - name: TurboScan3-182.jpg
+          text: ''
+      - - name: TurboScan4-047.jpg
+          text: ''
+        - name: TurboScan4-048.jpg
+          text: ''
+        - name: TurboScan4-049.jpg
+          text: ''
+      - - name: TurboScan4-050.jpg
+          text: ''
+        - name: TurboScan4-051.jpg
+          text: ''
+        - name: TurboScan4-052.jpg
+          text: ''
+      - - name: TurboScan4-053.jpg
+          text: ''
+        - name: TurboScan4-054.jpg
+          text: ''
+        - name: TurboScan4-055.jpg
+          text: ''
+      - - name: TurboScan4-056.jpg
+          text: ''
+        - name: TurboScan4-057.jpg
+          text: ''
+        - name: TurboScan4-058.jpg
+          text: ''
+      - - name: TurboScan4-059.jpg
+          text: ''
+        - name: TurboScan4-060.jpg
+          text: ''
+        - name: TurboScan4-061.jpg
+          text: ''
+      - - name: TurboScan4-062.jpg
+          text: ''

@@ -1,0 +1,8 @@
+title: Hobbies
+sub_title: 'Ones were enjoyed, but didn''t get into much'
+cover: 'Photo Nov 22, 7 56 56 PM.jpg'
+sections:
+  - type: bordered-picture
+    image:
+      name: 'Photo Nov 22, 7 56 56 PM.jpg'
+      text: ''

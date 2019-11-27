@@ -8,9 +8,9 @@
     "build": "prosopopee",
     "publish":"mv build docs && git add . && git commit -am 'good' && git push && mv docs build",
     "run": "echo 'Connect to http://penguin.linux.test:9000' && prosopopee preview",
-    "buildAndRun": "prosopopee && echo 'Connect to http://penguin.linux.test:9000' && prosopopee preview",
+    "buildRun": "prosopopee && echo 'Connect to http://penguin.linux.test:9000' && prosopopee preview",
     "updateGalleries": "node updateGalleries.js",
-    "rebuildAndRun":"rm -rf build && prosopopee && echo 'Build Folder Deleted and Rebuilt.' && echo 'Connect to http://penguin.linux.test:9000' && prosopopee preview"
+    "deleteRebuildRun":"rm -rf build && prosopopee && echo 'Build Folder Deleted and Rebuilt.' && echo 'Connect to http://penguin.linux.test:9000' && prosopopee preview"
   },
   "author": "",
   "license": "ISC",

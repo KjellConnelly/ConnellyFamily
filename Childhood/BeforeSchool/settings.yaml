@@ -4,93 +4,191 @@ cover: TurboScan2-020.jpg
 sections:
   - type: pictures-group
     images:
-      - - TurboScan2-020.jpg
-        - TurboScan2-021.jpg
-        - TurboScan2-022.jpg
-      - - TurboScan2-023.jpg
-        - TurboScan2-024.jpg
-        - TurboScan2-025.jpg
-      - - TurboScan2-026.jpg
-        - TurboScan2-027.jpg
-        - TurboScan2-028.jpg
-      - - TurboScan2-029.jpg
-        - TurboScan2-030.jpg
-        - TurboScan2-031.jpg
-      - - TurboScan2-032.jpg
-        - TurboScan2-033.jpg
-        - TurboScan2-034.jpg
-      - - TurboScan2-035.jpg
-        - TurboScan2-036.jpg
-        - TurboScan2-037.jpg
-      - - TurboScan2-038.jpg
-        - TurboScan2-039.jpg
-        - TurboScan2-040.jpg
-      - - TurboScan2-041.jpg
-        - TurboScan2-042.jpg
-        - TurboScan2-043.jpg
-      - - TurboScan2-044.jpg
-        - TurboScan2-045.jpg
-        - TurboScan2-046.jpg
-      - - TurboScan2-047.jpg
-        - TurboScan2-048.jpg
-        - TurboScan2-049.jpg
-      - - TurboScan2-050.jpg
-        - TurboScan3-000.jpg
-        - TurboScan3-001.jpg
-      - - TurboScan3-002.jpg
-        - TurboScan3-003.jpg
-        - TurboScan3-004.jpg
-      - - TurboScan3-005.jpg
-        - TurboScan3-006.jpg
-        - TurboScan3-007.jpg
-      - - TurboScan3-008.jpg
-        - TurboScan3-009.jpg
-        - TurboScan3-010.jpg
-      - - TurboScan3-021.jpg
-        - TurboScan3-022.jpg
-        - TurboScan3-023.jpg
-      - - TurboScan3-024.jpg
-        - TurboScan3-097.jpg
-        - TurboScan3-098.jpg
-      - - TurboScan3-099.jpg
-        - TurboScan3-100.jpg
-        - TurboScan3-101.jpg
-      - - TurboScan3-102.jpg
-        - TurboScan3-103.jpg
-        - TurboScan3-104.jpg
-      - - TurboScan3-105.jpg
-        - TurboScan3-106.jpg
-        - TurboScan3-123.jpg
-      - - TurboScan3-124.jpg
-        - TurboScan3-125.jpg
-        - TurboScan3-126.jpg
-      - - TurboScan3-127.jpg
-        - TurboScan3-128.jpg
-        - TurboScan3-130.jpg
-      - - TurboScan3-158.jpg
-        - TurboScan3-160.jpg
-        - TurboScan3-162.jpg
-      - - TurboScan3-163.jpg
-        - TurboScan3-164.jpg
-        - TurboScan3-165.jpg
-      - - TurboScan3-166.jpg
-        - TurboScan3-169.jpg
-        - TurboScan3-170.jpg
-      - - TurboScan3-171.jpg
-        - TurboScan3-172.jpg
-        - TurboScan3-181.jpg
-      - - TurboScan4-000.jpg
-        - TurboScan4-001.jpg
-        - TurboScan4-002.jpg
-      - - TurboScan4-003.jpg
-        - TurboScan4-004.jpg
-        - TurboScan4-005.jpg
-      - - TurboScan4-006.jpg
-        - TurboScan4-007.jpg
-        - TurboScan4-008.jpg
-      - - TurboScan4-009.jpg
-        - TurboScan4-010.jpg
-        - TurboScan4-022.jpg
-      - - TurboScan4-023.jpg
-        - TurboScan4-024.jpg
-        - TurboScan4-025.jpg
+      - - name: TurboScan2-029.jpg
+          text: 'Emmett & Kjell Labor and Delivery Reunion 7/23/85 #1'
+        - name: TurboScan2-030.jpg
+          text: 'Emmett & Kjell Labor and Delivery Reunion 7/23/85 #2'
+  - type: pictures-group
+    images:
+      - - name: 'Photo Nov 22, 7 56 45 PM.jpg'
+          text: ''
+        - name: 'Photo Nov 22, 7 57 07 PM (1).jpg'
+          text: ''
+        - name: 'Photo Nov 22, 7 57 07 PM.jpg'
+          text: ''
+      - - name: TurboScan2-020.jpg
+          text: '10/23/83 Walter (41y) holding Emmett (4m)'
+        - name: TurboScan2-021.jpg
+          text: ''
+        - name: TurboScan2-022.jpg
+          text: ''
+      - - name: TurboScan2-023.jpg
+          text: ''
+        - name: TurboScan2-024.jpg
+          text: 'Emmett 7 or 8 Months Old'
+        - name: TurboScan2-025.jpg
+          text: ''
+      - - name: TurboScan2-026.jpg
+          text: 'Emmett 1 Year Old, June 1984'
+        - name: TurboScan2-027.jpg
+          text: ''
+        - name: TurboScan2-028.jpg
+          text: '5/27/84 Emmett & Dido (Almost 1 year old)'
+      - - name: TurboScan2-031.jpg
+          text: '10/9/85: Kjell Arne Connelly 4 months old: born @ Group Health Hospital, Redmond, WA.'
+      - - name: TurboScan2-032.jpg
+          text: 'Emmett Feeding Kjell in February, 1986'
+        - name: TurboScan2-033.jpg
+          text: '4/26/86 Wedding Receiption of Sandy (Salzer) and Chris Cook'
+        - name: TurboScan2-034.jpg
+          text: '4/26/86 Kjell & Grandpa Walt Connelly'
+      - - name: TurboScan2-035.jpg
+          text: "Kjell and the \"Gate\" to the stairs and the Unknown... 11 months old - May, 1986"
+        - name: TurboScan2-036.jpg
+          text: "5/28/86 Yee-Po (Connie), Yee-Gung (Henry), and Ma-Li (Mary) arrive in Seattle at Sea-Tac Airport with Wi-Po. The Ma Family's home: Wuhan, People's Republic of China. Yee-Po is Wi-Po's Sister (Kjell's Grandma's Sister)."
+        - name: TurboScan2-037.jpg
+          text: '6/8/86 1 Year for Kjell, 3 Years for Emmett, Birthday Party'
+      - - name: TurboScan2-039.jpg
+          text: '6/10/1986: Three Generations of Connellys (Kjell, Walter, Walt)'
+        - name: TurboScan2-038.jpg
+          text: 'July, 1986'
+        - name: TurboScan2-040.jpg
+          text: "9/9/1986 Kjell & Walter at Jennifer Tse's 3rd Birthday"
+      - - name: TurboScan2-041.jpg
+          text: "10/11/86 at Wi-Gung's 70th Birthday Party"
+        - name: TurboScan2-042.jpg
+          text: '12/25/86 Aunt Nora & Yi-Po on Christmas Day'
+        - name: TurboScan2-043.jpg
+          text: "2/25/1987 Aunt Lily & Uncle Michael's 'belated' Xmas Gift: fabulous sun lantern for Hong Kong's celebration of the Lantern Festival (Aunt Grace Observing). Uncle James' Birthday."
+      - - name: TurboScan2-044.jpg
+          text: 'March/April 1987, Kjell Dressing up, almost 2 years old.'
+        - name: TurboScan2-045.jpg
+          text: "6/6/87 Emmett's 4th Birthday and Kjell's 2nd Party."
+        - name: TurboScan2-046.jpg
+          text: '7/3/87'
+      - - name: TurboScan2-047.jpg
+          text: '8/27/87'
+        - name: TurboScan2-048.jpg
+          text: '10/31/87 Halloween!'
+        - name: TurboScan2-049.jpg
+          text: '11/28/87 Thanksgiving'
+      - - name: TurboScan2-050.jpg
+          text: 'March, 1988. Playing in the Snow with Uncle James.'
+        - name: TurboScan3-000.jpg
+          text: ''
+        - name: TurboScan3-001.jpg
+          text: ''
+      - - name: TurboScan3-002.jpg
+          text: ''
+        - name: TurboScan3-003.jpg
+          text: ''
+        - name: TurboScan3-004.jpg
+          text: ''
+      - - name: TurboScan3-005.jpg
+          text: ''
+        - name: TurboScan3-006.jpg
+          text: ''
+        - name: TurboScan3-007.jpg
+          text: ''
+      - - name: TurboScan3-008.jpg
+          text: ''
+        - name: TurboScan3-009.jpg
+          text: ''
+        - name: TurboScan3-010.jpg
+          text: ''
+      - - name: TurboScan3-021.jpg
+          text: ''
+        - name: TurboScan3-022.jpg
+          text: ''
+        - name: TurboScan3-023.jpg
+          text: ''
+      - - name: TurboScan3-024.jpg
+          text: ''
+        - name: TurboScan3-097.jpg
+          text: ''
+        - name: TurboScan3-098.jpg
+          text: ''
+      - - name: TurboScan3-099.jpg
+          text: ''
+        - name: TurboScan3-100.jpg
+          text: ''
+        - name: TurboScan3-101.jpg
+          text: ''
+      - - name: TurboScan3-102.jpg
+          text: ''
+        - name: TurboScan3-103.jpg
+          text: ''
+        - name: TurboScan3-104.jpg
+          text: ''
+      - - name: TurboScan3-105.jpg
+          text: ''
+        - name: TurboScan3-106.jpg
+          text: ''
+        - name: TurboScan3-123.jpg
+          text: ''
+      - - name: TurboScan3-124.jpg
+          text: ''
+        - name: TurboScan3-125.jpg
+          text: ''
+        - name: TurboScan3-126.jpg
+          text: ''
+      - - name: TurboScan3-127.jpg
+          text: ''
+        - name: TurboScan3-128.jpg
+          text: ''
+        - name: TurboScan3-130.jpg
+          text: ''
+      - - name: TurboScan3-158.jpg
+          text: ''
+        - name: TurboScan3-160.jpg
+          text: ''
+        - name: TurboScan3-162.jpg
+          text: ''
+      - - name: TurboScan3-163.jpg
+          text: ''
+        - name: TurboScan3-164.jpg
+          text: ''
+        - name: TurboScan3-165.jpg
+          text: ''
+      - - name: TurboScan3-166.jpg
+          text: ''
+        - name: TurboScan3-169.jpg
+          text: ''
+        - name: TurboScan3-170.jpg
+          text: ''
+      - - name: TurboScan3-171.jpg
+          text: ''
+        - name: TurboScan3-172.jpg
+          text: ''
+        - name: TurboScan3-181.jpg
+          text: ''
+      - - name: TurboScan4-000.jpg
+          text: ''
+        - name: TurboScan4-001.jpg
+          text: ''
+        - name: TurboScan4-002.jpg
+          text: ''
+      - - name: TurboScan4-003.jpg
+          text: ''
+        - name: TurboScan4-004.jpg
+          text: ''
+        - name: TurboScan4-005.jpg
+          text: ''
+      - - name: TurboScan4-006.jpg
+          text: ''
+        - name: TurboScan4-007.jpg
+          text: ''
+        - name: TurboScan4-008.jpg
+          text: ''
+      - - name: TurboScan4-009.jpg
+          text: ''
+        - name: TurboScan4-010.jpg
+          text: ''
+        - name: TurboScan4-022.jpg
+          text: ''
+      - - name: TurboScan4-023.jpg
+          text: ''
+        - name: TurboScan4-024.jpg
+          text: ''
+        - name: TurboScan4-025.jpg
+          text: ''

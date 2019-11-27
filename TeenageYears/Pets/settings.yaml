@@ -1,0 +1,8 @@
+title: Our Pets
+sub_title: And Loved Animals
+cover: 'Photo Nov 22, 7 56 52 PM.jpg'
+sections:
+  - type: bordered-picture
+    image:
+      name: 'Photo Nov 22, 7 56 52 PM.jpg'
+      text: ''

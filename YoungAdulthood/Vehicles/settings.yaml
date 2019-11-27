@@ -1,0 +1,8 @@
+title: Vehicles
+sub_title: 'Cars, Motorcycles, etc'
+cover: TurboScan3-112.jpg
+sections:
+  - type: bordered-picture
+    image:
+      name: TurboScan3-112.jpg
+      text: ''
